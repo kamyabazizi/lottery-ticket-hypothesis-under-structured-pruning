@@ -40,17 +40,4 @@ python main_finetune.py --refine [PATH TO THE PRUNED MODEL] --dataset cifar10 --
 python main_finetune.py --refine [PATH TO THE PRUNED MODEL] --dataset cifar10 --arch densenet --depth 40
 ```
 
-## Scratch-E
-```
-python main_E.py --scratch [PATH TO THE PRUNED MODEL] --dataset cifar10 --arch vgg --depth 19
-python main_E.py --scratch [PATH TO THE PRUNED MODEL] --dataset cifar10 --arch resnet --depth 164
-python main_E.py --scratch [PATH TO THE PRUNED MODEL] --dataset cifar10 --arch densenet --depth 40
-```
-
-## Scratch-B
-```
-python main_B.py --scratch [PATH TO THE PRUNED MODEL] --dataset cifar10 --arch vgg --depth 19
-python main_B.py --scratch [PATH TO THE PRUNED MODEL] --dataset cifar10 --arch resnet --depth 164
-python main_B.py --scratch [PATH TO THE PRUNED MODEL] --dataset cifar10 --arch densenet --depth 40
-```
 
