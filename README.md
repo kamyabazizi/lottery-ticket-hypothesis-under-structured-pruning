@@ -12,11 +12,14 @@ In this project, we explore the application of the Lottery Ticket Hypothesis in 
 
 ## Usage
 1. Clone the repository:
-   '''git clone https://github.com/kamyabazizi/lottery-ticket-hypothesis-under-structured-pruning.git'''
-2. Navigate to the project directory:
-   '''cd lottery-ticket-hypothesis-under-structured-pruning'''
-3. Run the experiments:
-   '''python main.py'''
+   '''bash
+   git clone https://github.com/kamyabazizi/lottery-ticket-hypothesis-under-structured-pruning.git
+3. Navigate to the project directory:
+   '''bash
+   cd lottery-ticket-hypothesis-under-structured-pruning
+5. Run the experiments:
+   '''bash
+   python main.py
 This will train the neural network, apply structured pruning, and evaluate the performance of the pruned model.
 
 ## result
