@@ -11,7 +11,7 @@ In this project, we explore the application of the Lottery Ticket Hypothesis in 
 - Matplotlib
 
 ## Usage
-1. Clone the repository: git clone https://github.com/kamyabazizi/lottery-ticket-hypothesis-under-structured-pruning.git
+1. Clone the repository
 2. Navigate to the project directory:
 3. Run the experiments: python main.py
 This will train the neural network, apply structured pruning, and evaluate the performance of the pruned model.
@@ -21,6 +21,3 @@ We provide experimental results and analysis in the results directory. You can f
 
 ## Contributing
 Contributions to this project are welcome! If you find any issues or have ideas for improvements, please open an issue or submit a pull request.
-
-## License
-This project is licensed under the MIT License.
